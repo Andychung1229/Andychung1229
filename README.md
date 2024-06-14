@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Computer Science Student from HKUST</h3>
 
 - I am a student Computer Science with Extended Major of AI (Hong Kong University of Science and Technology)
-- I am currently learning **Machine Learning**, **MySQL**
+- I am currently learning **Machine Learning**, **Docker**,**Kubernetes**,**BackEnd Stuff**
 
 
 
